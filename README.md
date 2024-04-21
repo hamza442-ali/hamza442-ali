@@ -4,7 +4,7 @@
 
 # Hello, I'm Ali Hamza
 
-Welcome to my GitHub profile! I am a dedicated software engineer with a passion for developing innovative solutions using the MERN stack and other cutting-edge technologies. I am currently a student at the National University of Computer and Emerging Sciences in Islamabad, with an expected graduation year of 2024.
+Welcome to my GitHub profile! I am a dedicated software engineer with a passion for developing innovative solutions using the MERN stack and other cutting-edge technologies. I am eager to bring my technical skills and innovative mindset to contribute to and grow with your company.
 
 ## 🎓 Education
 - **National University of Computer and Emerging Sciences**, Islamabad
@@ -50,7 +50,8 @@ Welcome to my GitHub profile! I am a dedicated software engineer with a passion 
 ---
 
 <p align="center">
-  📫 Feel free to reach out to me for collaborations or inquiries!
+  📫 Feel free to reach out to me for collaborations or inquiries! 
+  - hamzaazam994@gmail.com
 </p>
 
 
