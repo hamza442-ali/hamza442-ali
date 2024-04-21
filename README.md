@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I am a dedicated software engineer with a passion 
 -  AWS Certified Cloud Practitioner [Credly AWS Certification](https://www.credly.com/badges/f9c545d5-28de-471a-808a-d7d41b062741)
 
 ## 🛠️ Projects
-- **Final Year Project:**
+- 1 **Final Year Project:**
 - **Developed using MERN stack and automated CI/CD pipelines with Python scripting, earning an A grade.**
   - Simplified project deployment with a single repository link and minimal information input.
   - **Technologies Used:** Docker, Kubernetes, Jenkins, Git
