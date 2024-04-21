@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I am a dedicated software engineer with a passion 
 
 ## 🛠️ Projects
 - **Final Year Project Management Portal:**
-- Developed using MERN stack and automated pipelines with Python scripting, earning an A grade. [Click](https://github.com/hamza442-ali/backend_DepEase/tree/hamza)
+  - Developed using MERN stack and automated pipelines with Python scripting, earning an A grade. [Click](https://github.com/hamza442-ali/backend_DepEase/tree/hamza)
 - **Learning Management System (LMS):** Successfully created using JavaFX.
 
 ## 🌐 Social Links
