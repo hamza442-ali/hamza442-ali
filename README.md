@@ -68,7 +68,7 @@ Welcome to my GitHub profile! I am a dedicated software engineer with a passion 
 
 <p align="center">
   📫 Feel free to reach out to me for collaborations or inquiries! 
-  - hamzaazam994@gmail.com
+     <br>hamzaazam994@gmail.com
 </p>
 
 
