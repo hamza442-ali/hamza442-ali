@@ -33,6 +33,7 @@ Welcome to my GitHub profile! I am a dedicated software engineer with a passion 
 ## 🌐 Social Links
 - [LinkedIn](https://www.linkedin.com/in/hamza-azam/)
 - [GitHub](https://github.com/hamza442-ali)
+- [Medium](https://medium.com/@hamzaazam994)
 - [Credly AWS Certification](https://www.credly.com/badges/f9c545d5-28de-471a-808a-d7d41b062741)
 
 ## 📜 Audit Competitions
