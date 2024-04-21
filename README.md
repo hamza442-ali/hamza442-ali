@@ -54,11 +54,11 @@ Welcome to my GitHub profile! I am a dedicated software engineer with a passion 
 <p align="center">
   <a href="https://www.linkedin.com/in/hamza-azam/" style="text-decoration: none;">
     <img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"/>
-  </a> 
+  </a> &nbsp; &nbsp;
   
   <a href="https://github.com/hamza442-ali" style="text-decoration: none;">
     <img alt="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30" height="30"/>
-  </a> 
+  </a> &nbsp; &nbsp;&nbsp; &nbsp;
   
   <a href="https://medium.com/@hamzaazam994" style="text-decoration: none;">
     <img alt="Medium" src="https://cdn-icons-png.flaticon.com/512/2111/2111543.png" width="30" height="30"/>
