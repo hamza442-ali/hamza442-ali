@@ -26,7 +26,8 @@ Welcome to my GitHub profile! I am a dedicated software engineer with a passion 
     - Developed DepEase, a platform revolutionizing Final Year Project management through DevOps.
     - Empowered universities to maintain comprehensive records of Final Year Projects.
     - **Modules:**
-      - Project Management, User Authentication, Proposal Submission, Supervisor Allocation, Progress Tracking "Admin, Teacher, Students"
+      - Project Management, User Authentication, Proposal Submission, Supervisor Allocation, Progress Tracking
+        - **"Admin, Teacher, Students"**
 
   - Repo Link [Click](https://github.com/hamza442-ali/backend_DepEase/tree/hamza)
 - **Learning Management System (LMS):** Successfully created using JavaFX.
