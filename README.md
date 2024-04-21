@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I am a dedicated software engineer with a passion 
   - Bachelor of Science in Software Engineering,  2024
 
 ## 🔧 Technologies & Tools
-- **Languages & Frameworks:** Node.js, Express, React.js, MongoDB, Python, Java, JavaScript
+- **Languages & Frameworks:** Node.js, React.js, MongoDB, Python, Java, JavaScript
 - **Tools & Platforms:** Linux, Docker, Jenkins, GitHub, AWS
 
 ## 📈 Certifications:
