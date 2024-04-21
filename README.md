@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a dedicated software engineer with a passion 
 
 ## 🎓 Education
 - **National University of Computer and Emerging Sciences**, Islamabad
-  - Bachelor of Science in Software Engineering, Expected 2024
+  - Bachelor of Science in Software Engineering,  2024
 
 ## 🔧 Technologies & Tools
 - **Languages & Frameworks:** Node.js, Express, React.js, MongoDB, Python, Java, JavaScript
