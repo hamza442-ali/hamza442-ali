@@ -3,11 +3,11 @@
 <!-- Your Name and Introduction -->
 # Hello, I'm Ali Hamza
 
-<!--I'm a passionate software developer and open-source enthusiast. Welcome to my GitHub profile, where I share my projects and contributions to the community.-->
+I'm a passionate software developer and open-source enthusiast. Welcome to my GitHub profile, where I share my projects and contributions to the community.
 
 
 
-# Sherlock 
+
 
 ## Audit Competitions
 | Contest          | High risk | Medium risk |  Security report | Language |
