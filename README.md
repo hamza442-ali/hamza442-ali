@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I am a dedicated software engineer with a passion 
 - **Certifications:** AWS Certified Cloud Practitioner
 
 ## 🛠️ Projects
-- **Final Year Project Management Portal:**
+- **Final Year Project:**
   - **Developed using MERN stack and automated CI/CD pipelines with Python scripting, earning an A grade.**
   - Simplified project deployment with a single repository link and minimal information input.
   - **Technologies Used:** Docker, Kubernetes, Jenkins, Git
