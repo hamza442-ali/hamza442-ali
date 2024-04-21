@@ -49,6 +49,23 @@ Welcome to my GitHub profile! I am a dedicated software engineer with a passion 
 | Blueberry | 1 | 1 | [Report](https://audits.sherlock.xyz/contests/69/report) | Solidity |
 
 
+## 🌐 Social Links
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hamza-azam/">
+    <img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"/>
+  </a> &nbsp; &nbsp;
+  <a href="https://github.com/hamza442-ali">
+    <img alt="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30" height="30"/>
+  </a> &nbsp; &nbsp;
+  <a href="https://medium.com/@hamzaazam994">
+    <img alt="Medium" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504801.png?token=exp=1645628407~hmac=3124ed9a3b7edf0f53ab16c5377b576d" width="30" height="30"/>
+  </a> &nbsp; &nbsp;
+  <a href="https://www.credly.com/badges/f9c545d5-28de-471a-808a-d7d41b062741">
+    <img alt="Credly" src="https://cdn-icons-png.flaticon.com/512/873/873107.png" width="30" height="30"/>
+  </a>
+</p>
+
 
 ---
 
