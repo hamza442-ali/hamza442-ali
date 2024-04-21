@@ -17,17 +17,17 @@ Welcome to my GitHub profile! I am a dedicated software engineer with a passion 
 ## 📈 Certifications:
 -  AWS Certified Cloud Practitioner [Credly AWS Certification](https://www.credly.com/badges/f9c545d5-28de-471a-808a-d7d41b062741)
 ## 🛠️ Projects
-- **Final Year Project:**
-- **Developed using MERN stack and automated CI/CD pipelines with Python scripting, earning an A grade.**
-  - Simplified project deployment with a single repository link and minimal information input.
-  - **Technologies Used:** Docker, Kubernetes, Jenkins, Git
-  - **Results:** Reduced deployment times, improved system stability, enhanced scalability.
-  - **Development**
-    - Developed DepEase, a platform revolutionizing Final Year Project management through DevOps.
-    - Empowered universities to maintain comprehensive records of Final Year Projects.
-    - **Modules:**
-      - Project Management, User Authentication, Proposal Submission, Supervisor Allocation, Progress Tracking
-        - **"Admin, Teacher, Students"**
+   ## - **Final Year Project:**
+    - **Developed using MERN stack and automated CI/CD pipelines with Python scripting, earning an A grade.**
+      - Simplified project deployment with a single repository link and minimal information input.
+      - **Technologies Used:** Docker, Kubernetes, Jenkins, Git
+      - **Results:** Reduced deployment times, improved system stability, enhanced scalability.
+      - **Development**
+        - Developed DepEase, a platform revolutionizing Final Year Project management through DevOps.
+        - Empowered universities to maintain comprehensive records of Final Year Projects.
+        - **Modules:**
+          - Project Management, User Authentication, Proposal Submission, Supervisor Allocation, Progress Tracking
+            - **"Admin, Teacher, Students"**
 
   - Repo Link [Click](https://github.com/hamza442-ali/backend_DepEase/tree/hamza)
 - **Learning Management System (LMS):** Successfully created using JavaFX.
