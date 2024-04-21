@@ -4,6 +4,17 @@
 # Hello, I'm Ali Hamza
 
 I'm a passionate software developer and open-source enthusiast. Welcome to my GitHub profile, where I share my projects and contributions to the community.
+I am a highly motivated and skilled professional with expertise in the
+MERN stack, including Node, Express, React.js, and MongoDB. My
+proficiency extends to Linux, Docker, Jenkins, GitHub, AWS Cloud
+Practitioner, Python, and Java/JavaScript. In a recent project, I developed
+a top-notch Final Year Project (FYP) Management Portal using the MERN
+stack and automated pipelines with Python scripting, earning an A grade.
+As a freelancer on platforms like Fiverr, I've honed my outsourcing and
+coding skills. Additionally, I successfully created a functional Learning
+Management System (LMS) using JavaFX. My commitment to excellence
+is further demonstrated by my AWS Certified Cloud Practitioner
+certification
 
 
 
