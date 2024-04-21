@@ -31,46 +31,6 @@ certification.
 
 
 
-
-
-# Code4rena 
-
-## Audit Competitions
-| Contest                             | High risk | Medium risk | Analysis Report | QA Report  |                       Security report                        |  Language |
-| ------------------------------------| ----------| ------------| -----------------|-----------| -------------------------------------------------------------|-----------|
-| Asymmetry Finance                   | 2         |  2          | -                | -         | [Report](https://code4rena.com/reports/2023-03-asymmetry)    | Solidity
-| Venus Protocol Isolated Pools       | -         |  1          | -                | -         | [Report](https://code4rena.com/reports/2023-05-venus)        | Solidity
-| Chainlink Staking v0.2              | -         |  -          | Grade B          | -         | -                                                            | Solidity   
-| Maia DAO Ecosystem                  | -         |  2          | -                | -         | [Report](https://code4rena.com/reports/2023-05-maia)         | Solidity   
-| KelpDao                             | 1         |  -          | Grade A          | Grade B   | [Report](https://code4rena.com/reports/2023-11-kelp)         | Solidity 
-| Shell Protocol                      | -         |  -          | Grade B          | -         | -                                                            | Solidity 
-| Canto                               | -         |  -          | Grade B          | -         | [Report](https://code4rena.com/reports/2023-11-canto)        | Solidity 
-
-
-
-
-
-
-
-# CodeHawks
-
-## Audit Competitions
-| Contest   | High risk | Medium risk | Low risk | Security report                                                          |  Language |
-| --------  | ----------| ------------| ---------| -----------------------------------------------------------              |-----------|
-| Beedle    | 2         | 3           | -        | [Report](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx)     | Solidity |
-| DittoETH  | -         | -           | 3        | [Report](https://www.codehawks.com/report/clm871gl00001mp081mzjdlwc)     | Solidity |
-
-
-
-
-
-<!--# Hats Finance
-
-## Audit Competitions
-| Contest | High risk | Medium risk | Security report | Position | Payout | Language |
-| --------| ----------| ------------| ----------------| ---------| -------| ---------|
-| 40      | 30        | 10          |  15             | 30       | 10     | 1        |-->
-
 <!-- GitHub Stats 
  📈 GitHub Stats
 
