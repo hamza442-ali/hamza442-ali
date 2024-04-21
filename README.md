@@ -31,6 +31,11 @@ Welcome to my GitHub profile! I am a dedicated software engineer with a passion 
   - Repo Link [Click](https://github.com/hamza442-ali/backend_DepEase/tree/hamza)
 - **Learning Management System (LMS):** Successfully created using JavaFX.
 
+## 🌐 Social Links
+- [LinkedIn](https://www.linkedin.com/in/hamza-azam/)
+- [GitHub](https://github.com/hamza442-ali)
+- [Medium](https://medium.com/@hamzaazam994)
+- [Credly AWS Certification](https://www.credly.com/badges/f9c545d5-28de-471a-808a-d7d41b062741)
 
 
 ## 📜 Audit Competitions
@@ -44,13 +49,7 @@ Welcome to my GitHub profile! I am a dedicated software engineer with a passion 
 | Blueberry | 1 | 1 | [Report](https://audits.sherlock.xyz/contests/69/report) | Solidity |
 
 
-## 🌐 Social Links
-- [LinkedIn](https://www.linkedin.com/in/hamza-azam/)
-- [GitHub](https://github.com/hamza442-ali)
-- [Medium](https://medium.com/@hamzaazam994)
-- [Credly AWS Certification](https://www.credly.com/badges/f9c545d5-28de-471a-808a-d7d41b062741)
 
-- 
 ---
 
 <p align="center">
