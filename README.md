@@ -57,28 +57,8 @@ Welcome to my GitHub profile! I am a dedicated software engineer with a passion 
 
 
 
-<!-- GitHub Stats 
- 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nabeel-javaid&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)-->
-
-<!-- Technologies & Tools 
-## 🛠 Technologies & Tools
-
-- List some of the technologies and tools you use, e.g. languages, frameworks, etc.
--->
-<!-- Featured Repositories 
-## 📚 Featured Issues (Solo)
-
-- [Issue 1](https://github.com/code-423n4/2023-06-lybra-findings/issues/484)
-- [Issue 2](https://github.com/sherlock-audit/2023-04-hubble-exchange-judging/issues/234)-->
 
 
-
----
-<p align="center">
-  Feel free to reach out to me for more information
-</p>
 
 <!--
 **hamza442-ali/hamza442-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
