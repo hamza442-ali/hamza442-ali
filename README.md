@@ -1,32 +1,44 @@
 
 
 <!-- Your Name and Introduction -->
+
 # Hello, I'm Ali Hamza
 
-I'm a passionate software developer. Welcome to my GitHub profile, where I share my projects and contributions to the community.
-I am a highly motivated and skilled professional with expertise in the
-MERN stack, including Node, Express, React.js, and MongoDB. My
-proficiency extends to Linux, Docker, Jenkins, GitHub, AWS Cloud
-Practitioner, Python, and Java/JavaScript. In a recent project, I developed
-a top-notch Final Year Project (FYP) Management Portal using the MERN
-stack and automated pipelines with Python scripting. Additionally, I successfully created a functional Learning
-Management System (LMS) using JavaFX. My commitment to excellence
-is further demonstrated by my AWS Certified Cloud Practitioner
-certification.
+Welcome to my GitHub profile! I am a dedicated software engineer with a passion for developing innovative solutions using the MERN stack and other cutting-edge technologies. I am currently a student at the National University of Computer and Emerging Sciences in Islamabad, with an expected graduation year of 2024.
 
+## 🎓 Education
+- **National University of Computer and Emerging Sciences**, Islamabad
+  - Bachelor of Science in Software Engineering, Expected 2024
 
+## 🔧 Technologies & Tools
+- **Languages & Frameworks:** Node.js, Express, React.js, MongoDB, Python, Java, JavaScript
+- **Tools & Platforms:** Linux, Docker, Jenkins, GitHub, AWS
+- **Certifications:** AWS Certified Cloud Practitioner
 
+## 🛠️ Projects
+- **Final Year Project Management Portal:** Developed using MERN stack and automated pipelines with Python scripting, earning an A grade.
+- **Learning Management System (LMS):** Successfully created using JavaFX.
 
-## Audit Competitions
-| Contest          | High risk | Medium risk |  Security report | Language |
-| -----------------| ----------| ------------| -----------------| ---------| 
-| Dodo V3          | -         | 1           |  [Report](https://audits.sherlock.xyz/contests/89/report)               | Solidity | 
-| Real-wagmi       | 1         | 2           |  [Report](https://audits.sherlock.xyz/contests/88/report)               | Solidity | 
-| Index            | 0         | 5           |  [Report](https://audits.sherlock.xyz/contests/81/report)               | Solidity | 
-| Ironbank         | 0         | 4           |  [Report](https://audits.sherlock.xyz/contests/84/report)               | Solidity | 
-| USSD             | 4         | 5           |  [Report](https://audits.sherlock.xyz/contests/82/report)               | Solidity | 
-| Blueberry        | 1         | 1           |  [Report](https://audits.sherlock.xyz/contests/69/report)               | Solidity |
+## 🌐 Social Links
+- [LinkedIn](https://www.linkedin.com/in/hamza-azam/)
+- [GitHub](https://github.com/hamza442-ali)
+- [Credly AWS Certification](https://www.credly.com/badges/f9c545d5-28de-471a-808a-d7d41b062741)
 
+## 📜 Audit Competitions
+| Contest | High Risk | Medium Risk | Security Report | Language |
+|---------|-----------|-------------|-----------------|----------|
+| Dodo V3 | 0 | 1 | [Report](https://audits.sherlock.xyz/contests/89/report) | Solidity |
+| Real-wagmi | 1 | 2 | [Report](https://audits.sherlock.xyz/contests/88/report) | Solidity |
+| Index | 0 | 5 | [Report](https://audits.sherlock.xyz/contests/81/report) | Solidity |
+| Ironbank | 0 | 4 | [Report](https://audits.sherlock.xyz/contests/84/report) | Solidity |
+| USSD | 4 | 5 | [Report](https://audits.sherlock.xyz/contests/82/report) | Solidity |
+| Blueberry | 1 | 1 | [Report](https://audits.sherlock.xyz/contests/69/report) | Solidity |
+
+---
+
+<p align="center">
+  📫 Feel free to reach out to me for collaborations or inquiries!
+</p>
 
 
 
