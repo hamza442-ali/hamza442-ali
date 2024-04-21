@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I am a dedicated software engineer with a passion 
 - **Tools & Platforms:** Linux, Docker, Jenkins, GitHub, AWS
 
 ## 📈 Certifications:
--  AWS Certified Cloud Practitioner [Link](https://www.credly.com/badges/f9c545d5-28de-471a-808a-d7d41b062741)
+-  AWS Certified Cloud Practitioner [Credly AWS Certification](https://www.credly.com/badges/f9c545d5-28de-471a-808a-d7d41b062741)
 ## 🛠️ Projects
 - **Final Year Project:**
 - **Developed using MERN stack and automated CI/CD pipelines with Python scripting, earning an A grade.**
@@ -31,11 +31,7 @@ Welcome to my GitHub profile! I am a dedicated software engineer with a passion 
   - Repo Link [Click](https://github.com/hamza442-ali/backend_DepEase/tree/hamza)
 - **Learning Management System (LMS):** Successfully created using JavaFX.
 
-## 🌐 Social Links
-- [LinkedIn](https://www.linkedin.com/in/hamza-azam/)
-- [GitHub](https://github.com/hamza442-ali)
-- [Medium](https://medium.com/@hamzaazam994)
-- [Credly AWS Certification](https://www.credly.com/badges/f9c545d5-28de-471a-808a-d7d41b062741)
+
 
 
 ## 📜 Audit Competitions
