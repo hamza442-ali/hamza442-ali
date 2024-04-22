@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I am a dedicated software engineer with a passion 
 
   - Repo Link [Click](https://github.com/hamza442-ali/backend_DepEase/tree/hamza)
     
-  - <h3>Load Balancer Project</h3>:
+  - <h3>Load Balancer Project:</h3>
   - Developed both static and dynamic load balancing solutions to optimize server load distribution.
     - **Static Load Balancer:** Implements a simple request routing mechanism using Node.js, directing traffic between two predefined servers based on current load.
     - **Dynamic Load Balancer:** Utilizes Node.js cluster management to dynamically scale handling capacity based on live traffic, increasing or decreasing server instances as necessary.
