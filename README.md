@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I am a dedicated software engineer with a passion 
 -  AWS Certified Cloud Practitioner [Credly AWS Certification](https://www.credly.com/badges/f9c545d5-28de-471a-808a-d7d41b062741)
 
 ## 🛠️ Projects
--  <h2>Final Year Project:</h2>
+-  <h3>Final Year Project:</h3>
 - **Developed using MERN stack and automated CI/CD pipelines with Python scripting, earning an A grade.**
   - Simplified project deployment with a single repository link and minimal information input.
   - **Technologies Used:** Docker, Kubernetes, Jenkins, Git
@@ -31,14 +31,17 @@ Welcome to my GitHub profile! I am a dedicated software engineer with a passion 
           - **"Admin, Teacher, Students"**
 
   - Repo Link [Click](https://github.com/hamza442-ali/backend_DepEase/tree/hamza)
- - <h2>Load Balancer Project</h2>:
+    
+  - <h3>Load Balancer Project</h3>:
   - Developed both static and dynamic load balancing solutions to optimize server load distribution.
     - **Static Load Balancer:** Implements a simple request routing mechanism using Node.js, directing traffic between two predefined servers based on current load.
     - **Dynamic Load Balancer:** Utilizes Node.js cluster management to dynamically scale handling capacity based on live traffic, increasing or decreasing server instances as necessary.
   - **Technologies Used:** Node.js
   - **Results:** Achieved efficient load handling, better resource utilization, and scalability.
   - Repo Link: [Click](https://github.com/hamza442-ali/LoadBalancer_Static_AND_Dynamic?tab=readme-ov-file)
-- <h2>Learning Management System (LMS):</h2> Successfully created using JavaFX.
+ 
+    
+- <h3>Learning Management System (LMS):</h3> Successfully created using JavaFX.
 
 
 
