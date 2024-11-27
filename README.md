@@ -44,19 +44,6 @@ Welcome to my GitHub profile! I am a dedicated software engineer with a passion 
 - <h3>Learning Management System (LMS):</h3> Successfully created using JavaFX.
 
 
-
-
-## 📜 Audit Competitions
-| Contest | High Risk | Medium Risk | Security Report | Language |
-|---------|-----------|-------------|-----------------|----------|
-| Dodo V3 | 0 | 1 | [Report](https://audits.sherlock.xyz/contests/89/report) | Solidity |
-| Real-wagmi | 1 | 2 | [Report](https://audits.sherlock.xyz/contests/88/report) | Solidity |
-| Index | 0 | 5 | [Report](https://audits.sherlock.xyz/contests/81/report) | Solidity |
-| Ironbank | 0 | 4 | [Report](https://audits.sherlock.xyz/contests/84/report) | Solidity |
-| USSD | 4 | 5 | [Report](https://audits.sherlock.xyz/contests/82/report) | Solidity |
-| Blueberry | 1 | 1 | [Report](https://audits.sherlock.xyz/contests/69/report) | Solidity |
-
-
 ## 🌐 Social Links
 
 <p align="center">
